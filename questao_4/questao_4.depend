@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634327684 source:c:\users\roxan\desktop\av2_ed2\questao_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafos.h"
+
+1634244338 c:\users\roxan\desktop\av2_ed2\questao_4\grafos.h
+
+1634244887 source:c:\users\roxan\desktop\av2_ed2\questao_4\grafos.c
+	<stdio.h>
+	<stdlib.h>
+	"grafos.h"
+

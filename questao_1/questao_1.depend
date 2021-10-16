@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634421598 source:c:\users\roxan\desktop\av2_ed2\questao_1\busca.c
+	<stdio.h>
+	<stdlib.h>
+	"busca.h"
+
+1634421308 c:\users\roxan\desktop\av2_ed2\questao_1\busca.h
+
+1634418192 source:c:\users\roxan\desktop\av2_ed2\questao_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"busca.h"
+
